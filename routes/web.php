@@ -33,3 +33,6 @@ Route::prefix('category')->group(function () {
 
 use App\Http\Controllers\ProfilController;
 Route::get('/profile/{id}/{name}', [ProfilController::class, 'index']);
+
+use App\Http\Controllers\SalesController;
+Route::get('/sales', [SalesController::class, 'index']);

@@ -30,3 +30,6 @@ Route::prefix('category')->group(function () {
     Route::get('/home-care', [ProductsController::class, 'homeCare']);
     Route::get('/baby-kid', [ProductsController::class, 'babyKid']);
 });
+
+use App\Http\Controllers\ProfilController;
+Route::get('/profile/{id}/{name}', [ProfilController::class, 'index']);

@@ -43,7 +43,7 @@
             </tr>
             </thead>
         <tbody>
-    <tr>
+        <tr>
             <td>1</td>
             <td>Soto Daging</td>
             <td>25</td>
@@ -54,6 +54,24 @@
             <td>Rawon</td>
             <td>30</td>
             <td>17000</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Nasi mawut</td>
+            <td>40</td>
+            <td>14000</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Bakmie Kulit</td>
+            <td>26</td>
+            <td>13000</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Siomay</td>
+            <td>18</td>
+            <td>10000</td>
         </tr>
     </tbody>
 </table>

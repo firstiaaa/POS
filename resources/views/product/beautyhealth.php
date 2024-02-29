@@ -51,6 +51,18 @@
             <td>30</td>
             <td>89000</td>
         </tr>
+        <tr>
+            <td>4</td>
+            <td>Serum Avoskin</td>
+            <td>20</td>
+            <td>142000</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Vaseline potrelium gel</td>
+            <td>9</td>
+            <td>50000</td>
+        </tr>
     </tbody>
 </table>
 

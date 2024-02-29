@@ -51,6 +51,18 @@
         <td>54</td>
         <td>65000</td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td>Shampo Zwitsal</td>
+        <td>43</td>
+        <td>25000</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Tissue basah antiseptik isi 50</td>
+        <td>24</td>
+        <td>39500</td>
+    </tr>
 </tbody>
 </table>
 </body>

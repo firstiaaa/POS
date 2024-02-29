@@ -51,6 +51,18 @@
         <td>20</td>
         <td>30000</td>
     </tr>
+    <tr>
+        <td>4</td>
+        <td>Sunlight lemon</td>
+        <td>19</td>
+        <td>15000</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Kemoceng</td>
+        <td>13</td>
+        <td>12000</td>
+    </tr>
 </tbody>
 </table>
 </body>
